@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Typing-Test/static/css/main.64987764.css",
+    "main.js": "/Typing-Test/static/js/main.712a2c9a.js",
+    "static/js/787.afb02e6f.chunk.js": "/Typing-Test/static/js/787.afb02e6f.chunk.js",
+    "static/media/logo.png": "/Typing-Test/static/media/logo.5c638ee86fc3c0cc19d5.png",
+    "static/media/AI.jpg": "/Typing-Test/static/media/AI.96165340678c197d97cf.jpg",
+    "static/media/Words.jpeg": "/Typing-Test/static/media/Words.dd5fab6fec291f4a8d97.jpeg",
+    "static/media/poem.jpg": "/Typing-Test/static/media/poem.3a42990e21ac0d448234.jpg",
+    "static/media/keyboard.png": "/Typing-Test/static/media/keyboard.0f318f0b47e6c80957f9.png",
+    "static/media/code.jpg": "/Typing-Test/static/media/code.4f98ecac013fb699dd80.jpg",
+    "index.html": "/Typing-Test/index.html",
+    "main.64987764.css.map": "/Typing-Test/static/css/main.64987764.css.map",
+    "main.712a2c9a.js.map": "/Typing-Test/static/js/main.712a2c9a.js.map",
+    "787.afb02e6f.chunk.js.map": "/Typing-Test/static/js/787.afb02e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64987764.css",
+    "static/js/main.712a2c9a.js"
+  ]
+}
